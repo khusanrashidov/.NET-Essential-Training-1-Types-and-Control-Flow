@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+tGA16rCodfKxBr0hEuuPlGEmeE9nkWSeYi5eZ9mOgNlpd9Pj2rSPS18moS7hMQwKtSDRd+YkuwiIpoQBGzxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khusan\\Desktop\\EPAM .NET\\C# Essential Training 1 Types and Control Flow\\Exercise Files\\CH05\\04\\Begin\\LinkedIn.Essentials\\LinkedIn.Essentials\\LinkedIn.Essentials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khusan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

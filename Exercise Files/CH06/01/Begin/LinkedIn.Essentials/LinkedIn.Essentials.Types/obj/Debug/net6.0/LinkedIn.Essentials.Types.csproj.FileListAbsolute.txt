@@ -1,0 +1,11 @@
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\bin\Debug\net6.0\LinkedIn.Essentials.Types.deps.json
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\bin\Debug\net6.0\LinkedIn.Essentials.Types.dll
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\bin\Debug\net6.0\LinkedIn.Essentials.Types.pdb
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\LinkedIn.Essentials.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\LinkedIn.Essentials.Types.AssemblyInfoInputs.cache
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\LinkedIn.Essentials.Types.AssemblyInfo.cs
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\LinkedIn.Essentials.Types.csproj.CoreCompileInputs.cache
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\LinkedIn.Essentials.Types.dll
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\refint\LinkedIn.Essentials.Types.dll
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\LinkedIn.Essentials.Types.pdb
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 1 Types and Control Flow\Exercise Files\CH06\01\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Types\obj\Debug\net6.0\ref\LinkedIn.Essentials.Types.dll
